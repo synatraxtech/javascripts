@@ -1,0 +1,7 @@
+document.getElementById(id); //pass id element 
+document.getElementsByTagName(tagName);document.getElementsByTagName("img") 
+document.createElement(tagName)
+element.style
+element.style.color="red"; //css styles
+
+
